@@ -30,7 +30,7 @@ public class ToolUtil {
 		toolMap.put("LADW", new Tool(ToolType.Ladder, "Werner", "LADW"));
 		toolMap.put("CHNS", new Tool(ToolType.Chainsaw, "Stihl", "CHNS"));
 		toolMap.put("JAKR", new Tool(ToolType.Jackhammer, "Ridgid", "JAKR"));
-		toolMap.put("JAKD", new Tool(ToolType.Jackhammer, "DeWalt", "jAKD"));
+		toolMap.put("JAKD", new Tool(ToolType.Jackhammer, "DeWalt", "JAKD"));
 
 	}
 
